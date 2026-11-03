@@ -5,6 +5,7 @@ NOW YOU CAN SAY THAT YOU OWN A PRIVATE THEATER !!
 
 # what it is
 So it's a theater a very well detailed one , made using rasberry pi and 3.5inch display.
+- onshape project link: https://cad.onshape.com/documents/e499e2ca250a6f9c3403fff8/w/cbb10b69eebf31b82742f96e/e/1ca6b127c0a9eb88f96d41ea?renderMode=0&uiState=6aea080f90a17703fc5c1deb
 
 # what does it do:
 Besides from your private theater it has uses like:
