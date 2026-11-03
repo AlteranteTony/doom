@@ -1,7 +1,7 @@
 # doom
 NOW YOU CAN SAY THAT YOU OWN A PRIVATE THEATER !!
 ![image](https://github.com/AlteranteTony/doom/blob/89f1dcd25e973f65d1b572906169e790c3c04e37/pictures-doom/outdoorlookig.png)
-
+![image](https://github.com/AlteranteTony/doom/blob/55dd28d3d6e4ba90f02d9fcc97b706095f207f0d/pictures-doom/a50indoorlook.png)
 
 # what it is
 So it's a theater a very well detailed one , made using rasberry pi and 3.5inch display.
